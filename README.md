@@ -1,5 +1,4 @@
-**Beyond Docker: Your First Kubernetes App**
-
+# Beyond Docker: Your First Kubernetes App
 Welcome back to the DevOps Fundamentals series! In our last video, we learned how to containerize an application with Docker. But what happens when you need to manage dozens or even hundreds of containers? That's the problem Kubernetes solves.
 
 In this video, we'll go beyond Docker and dive into the world of container orchestration. We'll demystify Kubernetes (often called K8s) by explaining its core concepts like Pods, Deployments, and Services.
